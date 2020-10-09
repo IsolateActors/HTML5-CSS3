@@ -1,15 +1,14 @@
 # HTML5-CSS3
 手写笔记
 
-<img style="width:50px;height:50px" src="https://user-images.githubusercontent.com/37364838/95549303-97230380-0a39-11eb-8a3c-63408b9dd93f.JPG"  alt="真棒" align=center />
 
 ## HTML
-![IMG_3056](https://user-images.githubusercontent.com/37364838/95549303-97230380-0a39-11eb-8a3c-63408b9dd93f.JPG) 
-![IMG_3057](https://user-images.githubusercontent.com/37364838/95549570-1e707700-0a3a-11eb-96e7-c80529f86df8.JPG)
-![IMG_3058](https://user-images.githubusercontent.com/37364838/95549609-2af4cf80-0a3a-11eb-9d71-1696196879b0.JPG)
-![IMG_3059](https://user-images.githubusercontent.com/37364838/95549680-49f36180-0a3a-11eb-9aad-ea3c68ee9097.JPG)
-![IMG_3060](https://user-images.githubusercontent.com/37364838/95549683-4c55bb80-0a3a-11eb-8430-a80883abdc7b.JPG)
-![IMG_3061](https://user-images.githubusercontent.com/37364838/95549685-4cee5200-0a3a-11eb-9fca-0a35116c40a7.JPG)
+
+<img alt="IMG_3056" width='50%' src="https://user-images.githubusercontent.com/37364838/95549303-97230380-0a39-11eb-8a3c-63408b9dd93f.JPG" /><img alt="IMG_3057" width='50%' src="https://user-images.githubusercontent.com/37364838/95549570-1e707700-0a3a-11eb-96e7-c80529f86df8.JPG" />
+
+<img alt="IMG_3058" width='50%' src="https://user-images.githubusercontent.com/37364838/95549609-2af4cf80-0a3a-11eb-9d71-1696196879b0.JPG" /><img alt="IMG_3059" width='50%' src="https://user-images.githubusercontent.com/37364838/95549680-49f36180-0a3a-11eb-9aad-ea3c68ee9097.JPG" />
+
+<img alt="IMG_3060" width='50%' src="https://user-images.githubusercontent.com/37364838/95549683-4c55bb80-0a3a-11eb-8430-a80883abdc7b.JPG" /><img alt="IMG_3061" width='50%' src="https://user-images.githubusercontent.com/37364838/95549685-4cee5200-0a3a-11eb-9fca-0a35116c40a7.JPG" />
 
 -------
 ## CSS
